@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+backend/venv/
+backend/models/sam2_hiera_base_plus.pt
+backend/models/sam2_hiera_base_plus.pt
+backend/venv/
+frontend/node_modules/
+backend/segment-anything-2/
+backend/venv/
+frontend/node_modules/
+backend/segment-anything-2/
+backend/venv/
+frontend/node_modules/
+backend/segment-anything-2/

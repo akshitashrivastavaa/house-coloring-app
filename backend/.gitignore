@@ -1,0 +1,21 @@
+
+# Python venv
+backend/venv/
+
+# Node modules
+frontend/node_modules/
+
+# SAM2 large model folder
+backend/segment-anything-2/
+
+# Model files
+*.pt
+*.pth
+
+# Cache & temp
+__pycache__/
+*.pyc
+.DS_Store
+
+# Build folders
+frontend/dist/
