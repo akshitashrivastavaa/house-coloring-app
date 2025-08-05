@@ -173,6 +173,6 @@ def download():
         return jsonify({"error": "No edited image"}), 404
     return send_file(edited_path, as_attachment=True)
 
-# ----------------- Run -----------------
+
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
